@@ -1,2 +1,3 @@
-# ML-Projects
-This Repository contains Machine Learning Projects
+# Heart disease detection
+Heart disease detection using Machine Learning.
+Data Analysis,Data Visualisation,SVM
